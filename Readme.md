@@ -28,6 +28,6 @@ There are two sub projects, first project is The KafkaProducer project which mak
 
 1. KafkaProducer: \
 Run `TwitterProducer.java` in project from eclipse and provide 2 program arguments \
-example: en #covid19. or run jar via spart-submit
+example: en #covid19. or run jar via spark-submit
 2. KafkaConsumer: \
-run ''
+run `SparkStreaming.java` in project from eclipse or run jar via spark-submit
